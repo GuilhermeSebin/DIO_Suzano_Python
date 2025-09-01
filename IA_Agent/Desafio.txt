@@ -1,0 +1,28 @@
+O Copilot Studio é uma plataforma da Microsoft voltada para a criação de agentes de IA personalizados, que podem atuar como assistentes conversacionais, automatizar tarefas, responder perguntas e até executar ações em sistemas empresariais. Ele foi projetado para ser acessível tanto para desenvolvedores quanto para usuários de negócios, permitindo a criação de agentes com ou sem código.
+
+O Copilot Studio permite:
+- Criar agentes inteligentes que operam por linguagem natural e IA generativa.
+- Automatizar fluxos de trabalho em áreas como atendimento ao cliente, vendas, RH, TI e operações.
+- Integrar com o Microsoft 365, Dynamics 365, Power Platform e outros sistemas corporativos.
+- Publicar agentes em múltiplos canais, como Microsoft Teams, SharePoint, sites e redes sociais.
+- Personalizar o comportamento do agente, incluindo tom de voz, persona, fontes de dados e escopo de atuação.
+- Gerenciar e escalar agentes com segurança, por meio de um centro de administração centralizado.
+- Criar agentes autônomos, capazes de planejar, aprender e executar tarefas sem intervenção humana.
+
+Principais recursos para criar um agente de IA:
+- Prompt estruturado – Define o comportamento, os objetivos e a personalidade do agente, orientando como ele deve interagir com os usuários.
+- Fontes de dados – Permite conectar o agente a serviços como Microsoft Graph, Dataverse, SharePoint, Azure e outros repositórios corporativos.
+- Modelos pré-definidos – Oferece agentes prontos para uso que podem ser adaptados conforme suas necessidades específicas.
+- Fluxos de agentes – Automatiza tarefas com lógica de execução, como decisões condicionais, chamadas de API e manipulação de dados.
+- Conectores Power Platform – Integra o agente com mais de 1.400 serviços externos, como Salesforce, SAP, Google Sheets, entre outros.
+- Interface de criação por texto – Permite criar e configurar agentes usando linguagem natural ou edição manual de componentes.
+- Testes em tempo real – Simula conversas com o agente para validar seu comportamento e ajustar respostas antes da publicação.
+- Publicação multicanal – Disponibiliza o agente em canais como Microsoft Teams, SharePoint, sites corporativos, aplicativos móveis e redes sociais.
+- Controle de acesso e segurança – Gerencia permissões, autenticação e proteção de dados sensíveis, garantindo conformidade com políticas corporativas.
+- Agentes de voz e IVR – Cria agentes que interagem por voz, ideais para centrais de atendimento, assistentes virtuais e sistemas de resposta automática.
+
+
+
+
+
+
